@@ -9,7 +9,7 @@
     "express": "^4.10.8",
     "firebase": "^4.12.1",
     "method-override": "^2.3.10",
-    "mongoose": "4.10.8",
+    "mongoose": "4.13.21",
     "morgan": "^1.9.0",
     "ngmap": "^1.18.4"
   }
